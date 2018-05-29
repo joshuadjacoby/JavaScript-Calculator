@@ -1,2 +1,4 @@
 # JavaScript-Calculator
-A simple calculator made using HTML, CSS, JavaScript, jQuery, Bootstrap
+A Pen created at CodePen.io. You can find this one at https://codepen.io/joshuadjacoby/pen/bMPJOv.
+
+ 
